@@ -120,3 +120,14 @@ Este proyecto desarrolla un sistema de clasificación de sentimiento para tweets
 | **ML Clásico** | scikit-learn (LR, SVM, Árboles, RF, NB) |
 | **Boosting** | XGBoost |
 | **Redes Neuronales** | TensorFlow / Keras |
+
+
+## Integrantes
+- Pedro Sebastian Alfieri Arteaga Guerra
+- Piero Hideki Furushio Casanave  
+- Renzo Sebastian Salazar Chavez
+- Bryan Jean Pierre Villasante López  
+- David Casaño Suarez
+
+**Curso:** Minería de Datos 
+**Docente:** Pilar Sayán Mejía  
